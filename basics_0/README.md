@@ -10,12 +10,11 @@
 
 ## ➤ Menu:
 
-* [➤ Description]()
-* [➤ Resources]()
-* [➤ General]()
-* [➤ Requirements]()
-* [➤ Tasks]()
-* [➤ Author]()
+* [➤ Description](https://github.com/amandinekemp/holbertonschool-network/tree/main/basics_0#-description)
+* [➤ Resources](https://github.com/amandinekemp/holbertonschool-network/tree/main/basics_0#-resources)
+* [➤ Requirements](https://github.com/amandinekemp/holbertonschool-network/tree/main/basics_0#-requirements)
+* [➤ Tasks](https://github.com/amandinekemp/holbertonschool-network/tree/main/basics_0#-tasks)
+* [➤ Author](https://github.com/amandinekemp/holbertonschool-network/tree/main/basics_0#-author)
 
 ----------
 
