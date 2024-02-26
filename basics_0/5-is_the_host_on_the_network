@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Check whether an IP address is supplied as an argument
+
+if [ "$#" -ne 1 ]; then
+  echo "Usage: $0 <IP address>"
+  exit 1
+fi
+
+ping -c 5 "$1"
